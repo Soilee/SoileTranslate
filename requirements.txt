@@ -1,0 +1,11 @@
+PyQt5==5.15.11
+numpy==2.4.6
+faster-whisper==1.2.1
+ctranslate2==4.6.0
+setuptools<81
+transformers==5.12.1
+sentencepiece==0.2.1
+sounddevice==0.5.5
+soundcard==0.4.6
+keyboard>=0.13.5
+onnxruntime==1.20.1
